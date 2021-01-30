@@ -24,7 +24,8 @@ body{
     align-items: center;
     justify-content: flex-end;
     font-size: 2.5rem;
-    word-break: break-word;
+    
+    text-align: right;
     
 }
 
